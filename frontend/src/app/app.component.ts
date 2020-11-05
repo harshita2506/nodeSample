@@ -41,6 +41,5 @@ export class AppComponent implements OnInit {
   //     console.log("error fr", error);
   //   });
   // }
-
   
 }
